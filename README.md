@@ -26,7 +26,7 @@ This service monitors prices of ads on OLX and sends email notifications when th
 1. Clone the repository:
     ```bash
     git clone https://github.com/supersem/OLX-Price-Monitoring-Service.git
-    cd olx-price-monitoring-service
+    cd OLX-Price-Monitoring-Service
     ```
 
 2. Install dependencies using Composer:
